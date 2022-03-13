@@ -1,0 +1,47 @@
+.maincontainer {
+    width: 80%;
+  }
+  .main {
+    display: flex;
+  }
+  .img-1 {
+    display: flex;
+    align-items: center;
+    margin-left: 110px;
+  }
+  
+  .container-2 {
+    display: flex;
+  }
+  .text-maincontainer > h1 {
+    width: 211.4px;
+    height: 53.86px;
+    font-size: 32px;
+    line-height: 101.38%;
+  }
+  p.text {
+    width: 383.41px;
+   
+    font-size: 14px;
+    line-height: 150%;
+  }
+  .container2-text{
+      margin-right: 30px;
+  }
+  .container2-text > h3 {
+    width: 86.88px;
+    height: 22.59px;
+    font-size: 15px;
+    line-height: 130%;
+  }
+  .first-second {
+    width: 86.88px;
+    height: 22.59px;
+    font-size: 11px;
+    line-height: 130%;
+  }
+  .img-1 > img {
+    margin: 0;
+    min-width: 181px;
+    min-height: 181px;
+  }
